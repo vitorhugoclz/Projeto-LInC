@@ -18,7 +18,7 @@
 		
 		
 			<div class="col-md-3">
-				<a target="_blank" href="http://www.bcc.unifal-mg.edu.br/portal/">
+				<a target="_blank" href="http://www.unifal-mg.edu.br/portal/">
 					<img src="fotos/unifal_grande.jpg" alt="">
 				</a>
 			</div>
