@@ -1,0 +1,5 @@
+Foi usado o exemplo do bootstrap: Product. Ele faz a barra superir do site, no quesito design e fixação a longo do decorrer da pagina.
+
+Foi usado o exemplo do Jumbotron para fazer a responsividade da pagina na parte do cebeçalho e o botão interativo que abre o menu.
+
+ 
