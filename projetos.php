@@ -6,7 +6,7 @@ include("include/header.php");
 		<!-- Example row of columns -->
 		<div class="row">
 			<div class="col-md-12">
-				<h1> Projetos LInC:</h1>
+				<h2> Projetos LInC:</h2>
 					<h2>Projetos em andamento:</h2>
 						<p id="projetos"> Data Science Game 2018 Online qualifiers </p><!--mesma formatação para o ID dos titulos de projeto-->
 						<!-- Inserir projetos em andamento por nome e participantes e conteudo-->
