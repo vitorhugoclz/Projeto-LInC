@@ -3,8 +3,8 @@
     <footer class="container">
       <div class="row align-items-center">
         <div class="col-md-3">
-			<a target="_blank" href="http://www.bcc.unifal-mg.edu.br/portal/">
-				<img src="fotos/bcc_grande.jpg" alt="">
+			<a class="py-2 d-none d-md-inline-block"  target="_blank" href="http://www.bcc.unifal-mg.edu.br/portal/">
+				<img class="d-block mx-auto" src="fotos/bcc_grande.jpg" alt="">
 			</a>
         </div>
 		
@@ -18,8 +18,8 @@
 		
 		
 			<div class="col-md-3">
-				<a target="_blank" href="http://www.unifal-mg.edu.br/portal/">
-					<img src="fotos/unifal_grande.jpg" alt="">
+				<a class="py-2 d-none d-md-inline-block"  target="_blank" href="http://www.unifal-mg.edu.br/portal/">
+					<img class="d-block mx-auto"  src="fotos/unifal_grande.jpg" alt="">
 				</a>
 			</div>
       </div>
