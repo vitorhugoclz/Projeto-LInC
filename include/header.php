@@ -1,25 +1,19 @@
 <!DOCTYPE html>
-<html lang="en"><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="Vitor e Pedro">
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="http://getbootstrap.com/favicon.ico" />
 
     <title>Lab LInC</title>
+    <meta name="viewport" content="width=devide-width, initial-scale=1" />
+    <!-- Bootstrap core CSSAdiciona principal arquivo css bootstrap (base externo) -->
+    <link href="css/bootstrap.css" rel="stylesheet" />
 
-    <!-- Bootstrap core CSS
-		Adiciona principal arquivo css bootstrap (base externo)
-	-->
-    <link href="css/bootstrap.css" rel="stylesheet">
-
-    <!-- Custom styles for this template
-		 CSS personalizado para este exemplo.
-	-->
-    <link href="css/product.css" rel="stylesheet">
 	<!-- Ajusta o padding inferior da navabar -->
-    <link href="css/ajuste_menu.css" rel="stylesheet">
+    <link href="css/ajuste_menu.css" rel="stylesheet" />
+
+    <!-- ajustes de imagem com legenda (banner) -->
+    <link href="css/index_estilo.css" rel="stylesheet" />
   </head>
 
   <body>	

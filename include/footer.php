@@ -9,11 +9,11 @@
         </div>
 		
 		<div class="col-md-6 " align="center" >
-          <h1> LInC </h1>
-		  <p> Av. Jovino Fernandes Sales, 2600 - Santa Clara </p>
-		  <p>Alfenas/MG - CEP: 37133-840.</p>
-		  <p>texto</p>		<!-- colocar local no predio --> 
-		  <p>texto</p>		<!-- pedir telefone de contato -->
+          <h1 class="endereco"> LInC </h1>
+		  <p class="endereco">Av. Jovino Fernandes Sales, 2600 - Santa Clara </p>
+		  <p class="endereco">Alfenas/MG - CEP: 37133-840.</p>
+		  <p class="endereco">colocar sala</p>		<!-- colocar local no predio -->
+		  <p class="endereco">link para abrir mapa scaneado</p>		<!-- pedir telefone de contato -->
         </div>
 		
 		
