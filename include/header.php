@@ -14,6 +14,8 @@
 
     <!-- ajustes de imagem com legenda (banner) -->
     <link href="css/index_estilo.css" rel="stylesheet" />
+    <!-- edição da pagina equipe -->
+    <link href="css/equipe_estilo.css" rel="stylesheet" />
   </head>
 
   <body>	
