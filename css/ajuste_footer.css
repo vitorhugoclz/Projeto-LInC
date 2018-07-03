@@ -1,0 +1,74 @@
+/* versão para desktop */
+p.endereco{  /* edição do rodapé */
+    font-size: 25px;
+    font-family: Arial;
+}
+h1.endereco{
+    font-size: 35px;
+    font-family: Arial;
+    font-style: italic;
+}
+/*formatação pagina index para Mobile S*/
+@media only screen and (max-width: 374px){
+    p.endereco{
+        font-size: 7.5px;
+        font-family: Arial;
+    }
+    h1.endereco{
+        font-size: 14px;
+        font-family: Arial;
+    }
+}
+/* formatação da pagina para Mobile M */
+@media only screen and (min-width: 375px) and (max-width: 399px){
+    p.endereco{
+        font-size: 8.2px;
+    }
+    h1.endereco{
+        font-size: 16px;
+        font-family: Arial;
+    }
+}
+/*formatação da pagina index para mobile L */
+@media only screen and (min-width: 400px) and (max-width: 700px){
+    p.endereco{
+        font-size: 10px;
+        position: relative;
+        left: 25px;
+    }
+    h1.endereco{
+        position: relative;
+        left: 25px;
+        font-size: 25px;
+        font-family: Arial;
+        font-style: italic;
+    }
+}
+/* formatação da pagina index para Tablets */
+@media only screen and (max-width: 1000px) and (min-width: 700px){
+    p.endereco{
+        font-size: 11px;
+        position: relative;
+        left: 25px;
+    }
+    h1.endereco{
+        position: relative;
+        left: 25px;
+        font-size: 35px;
+        font-family: Arial;
+        font-style: italic;
+    }
+}
+/* formatação para laptop de 1024px*/
+@media only screen and (min-width: 1000px) and (max-width: 1300px){
+    p.endereco {
+        font-size: 20px;
+        font-family: Arial;
+    }
+
+    h1.endereco {
+        font-size: 28px;
+        font-family: Arial;
+        font-style: italic;
+    }
+}
