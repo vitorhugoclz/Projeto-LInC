@@ -2,7 +2,7 @@
 	
     <footer class="container">
       <div class="row align-items-center">
-        <div class="col-md-3">
+        <div class="col-md-3" align="left">
 			<a class="py-2 d-none d-md-inline-block"  target="_blank" href="http://www.bcc.unifal-mg.edu.br/portal/">
 				<img class="d-block mx-auto" src="fotos/bcc_grande.jpg" alt="">
 			</a>
@@ -10,14 +10,14 @@
 		
 		<div class="col-md-6 " align="center" >
           <h1 class="endereco"> LInC </h1>
-		  <p class="endereco">Av. Jovino Fernandes Sales, 2600 - Santa Clara </p>
+		  <p class="endereco">Av. Jovino Fernandes Sales,<br/> 2600 - Santa Clara </p>
 		  <p class="endereco">Alfenas/MG - CEP: 37133-840.</p>
-		  <p class="endereco">colocar sala</p>		<!-- colocar local no predio -->
-		  <p class="endereco">link para abrir mapa scaneado</p>		<!-- pedir telefone de contato -->
+		  <p class="endereco">colocar sala</p><!-- colocar local no predio -->
+		  <p class="endereco">Telefone: </p> <!-- pedir telefone de contato -->
         </div>
 		
 		
-			<div class="col-md-3">
+			<div class="col-md-3" align="right">
 				<a class="py-2 d-none d-md-inline-block"  target="_blank" href="http://www.unifal-mg.edu.br/portal/">
 					<img class="d-block mx-auto"  src="fotos/unifal_grande.jpg" alt="">
 				</a>

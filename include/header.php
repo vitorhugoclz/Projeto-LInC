@@ -2,7 +2,8 @@
 <html lang="pt-br">
 <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico" />
+    <!-- icone do linc para o Browser -->
+    <link rel="shortcut icon" href="fotos/linc.ico" type="image/x-icon" />
 
     <title>Lab LInC</title>
     <meta name="viewport" content="width=devide-width, initial-scale=1" />
@@ -11,14 +12,17 @@
 
 	<!-- Ajusta o padding inferior da navabar -->
     <link href="css/ajuste_menu.css" rel="stylesheet" />
-
+    <!-- Ajuste do Rodapé -->
+    <link href="css/ajuste_footer.css" rel="stylesheet" />
     <!-- ajustes de imagem com legenda (banner) -->
     <link href="css/index_estilo.css" rel="stylesheet" />
     <!-- edição da pagina equipe -->
     <link href="css/equipe_estilo.css" rel="stylesheet" />
+    <!-- edição da pagina de contato -->
+    <link href="css/contato_estilo.css" rel="stylesheet" />
   </head>
 
-  <body>	
+  <body>
 	    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
 	  <a class="navbar-brand" target="_blank" href="http://www.bcc.unifal-mg.edu.br/portal/">
 	  <img class="d-block mx-auto" id="bcc-logo" src="fotos/bcc.jpg"/> <!--logo do Bcc-->
