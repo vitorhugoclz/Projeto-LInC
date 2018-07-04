@@ -26,18 +26,8 @@ figure.discentes h3{
     font-family: Arial;
     font-size: 10px;
 }
-/* edição do rodapé */
-p.endereco{
-    font-size: 25px;
-    font-family: Arial;
-}
-h1.endereco{
-    font-size: 35px;
-    font-family: Arial;
-    font-style: italic;
-}
-/*formatação pagina index para Mobile S*/
-@media only screen and (max-width: 374px){
+/*formatação para Mobile S*/
+@media only screen and (max-width: 373px){
     /* incio da edição dos orientadores */
     figure.orientador img{
         width: 300px;
@@ -65,21 +55,12 @@ h1.endereco{
         font-family: Arial;
         font-size: 10px;
     }
-    /* edição do rodapé */
-    p.endereco{
-        font-size: 7.5px;
-        font-family: Arial;
-    }
-    h1.endereco{
-        font-size: 14px;
-        font-family: Arial;
-    }
 }
 /* formatação da pagina para Mobile M */
-@media only screen and (min-width: 375px) and (max-width: 399px){
+@media only screen and (min-width: 374px) and (max-width: 399px){
     /* inicio da edição dos orientadores */
     figure.orientador img{
-        width: 330px;
+        width: 300px;
         height: 220px;
     }
     figure.orientador h2{
@@ -103,14 +84,6 @@ h1.endereco{
     figure.discentes h3{
         font-family: Arial;
         font-size: 11px;
-    }
-    /* edição do rodapé */
-    p.endereco{
-        font-size: 8.2px;
-    }
-    h1.endereco{
-        font-size: 16px;
-        font-family: Arial;
     }
 }
 /*formatação da pagina index para mobile L */
@@ -142,20 +115,6 @@ h1.endereco{
         font-family: Arial;
         font-size: 11px;
     }
-
-    /* edição do rodapé */
-    p.endereco{
-        font-size: 10px;
-        position: relative;
-        left: 25px;
-    }
-    h1.endereco{
-        position: relative;
-        left: 25px;
-        font-size: 25px;
-        font-family: Arial;
-        font-style: italic;
-    }
 }
 /* formatação da pagina index para Tablets */
 @media only screen and (max-width: 1000px) and (min-width: 700px){
@@ -186,19 +145,6 @@ h1.endereco{
         font-family: Arial;
         font-size: 12px;
     }
-    /*edição do rodapé */
-    p.endereco{
-        font-size: 11px;
-        position: relative;
-        left: 25px;
-    }
-    h1.endereco{
-        position: relative;
-        left: 25px;
-        font-size: 35px;
-        font-family: Arial;
-        font-style: italic;
-    }
 }
 /* formatação para laptop de 1024px*/
 @media only screen and (min-width: 1000px) and (max-width: 1300px){
@@ -227,15 +173,5 @@ h1.endereco{
     figure.discentes h3{
         font-family: Arial;
         font-size: 10px;
-    }
-    p.endereco {
-        font-size: 20px;
-        font-family: Arial;
-    }
-
-    h1.endereco {
-        font-size: 28px;
-        font-family: Arial;
-        font-style: italic;
     }
 }

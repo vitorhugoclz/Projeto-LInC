@@ -1,6 +1,5 @@
 @charset "UTF-8";
 /* formatação da pagina index para desktop*/
-
 figure.figure figcaption { /* bloco para a legenda*/
     opacity: 0;
     position: absolute;
@@ -21,15 +20,8 @@ figure.figure p { /*edição do texto da foto-legenda */
     font-family: Arial;
     font-size: 14px;
     top: 75%;
-}
-p.endereco{  /* edição do rodapé */
-    font-size: 25px;
-    font-family: Arial;
-}
-h1.endereco{
-    font-size: 35px;
-    font-family: Arial;
-    font-style: italic;
+    margin-left: 4px;
+    margin-right: 4px;
 }
 
 /*formatação pagina index para Mobile S*/
@@ -51,17 +43,9 @@ h1.endereco{
         font-size: 6.5px;
         font-family: Arial;
         position: absolute;
-        top: 30%;
-        left: 2px; /*alinhas o texto em 2 pixeis a direita e a esquerda */
-        right: 2px;
-    }
-    p.endereco{
-        font-size: 7.5px;
-        font-family: Arial;
-    }
-    h1.endereco{
-        font-size: 14px;
-        font-family: Arial;
+        top: 15%;
+        margin-left: 2px; /*alinhas o texto em 2 pixeis a direita e a esquerda */
+        margin-right: 2px;
     }
 }
 /* formatação da pagina para Mobile M */
@@ -80,19 +64,12 @@ h1.endereco{
         opacity: 1;
     }
     figure.figure p {
-        font-size: 6.5px;
+        font-size: 7px;
         font-family: Arial;
         position: absolute;
-        top: 50%;
+        top: 40%;
         left: 4px;
         right: 2px;
-    }
-    p.endereco{
-        font-size: 8.2px;
-    }
-    h1.endereco{
-        font-size: 16px;
-        font-family: Arial;
     }
 }
 /*formatação da pagina index para mobile L */
@@ -111,23 +88,11 @@ h1.endereco{
         opacity: 1;
     }
     figure.figure p {
-        font-size: 7.5px;
+        font-size: 8.3px;
         position: absolute;
-        top: 50%;
+        top: 40%;
         left: 4px;
         right: 2px;
-    }
-    p.endereco{
-        font-size: 10px;
-        position: relative;
-        left: 25px;
-    }
-    h1.endereco{
-        position: relative;
-        left: 25px;
-        font-size: 25px;
-        font-family: Arial;
-        font-style: italic;
     }
 }
 /* formatação da pagina index para Tablets */
@@ -152,18 +117,6 @@ h1.endereco{
         top: 78%;
         left: 0px;
     }
-    p.endereco{
-        font-size: 11px;
-        position: relative;
-        left: 25px;
-    }
-    h1.endereco{
-        position: relative;
-        left: 25px;
-        font-size: 35px;
-        font-family: Arial;
-        font-style: italic;
-    }
 }
 /* formatação para laptop de 1024px*/
 @media only screen and (min-width: 1000px) and (max-width: 1300px) {
@@ -187,15 +140,5 @@ h1.endereco{
         font-family: Arial;
         font-size: 13px;
         top: 75%;
-    }
-    p.endereco {
-        font-size: 20px;
-        font-family: Arial;
-    }
-
-    h1.endereco {
-        font-size: 28px;
-        font-family: Arial;
-        font-style: italic;
     }
 }
