@@ -118,10 +118,10 @@ include("include/header.php");
 
 					<h2>Ex-integrantes: </h2>
 						<!-- Inserir Ex-participantes do LInc e projetos em que atuaram -->
-			</div>
-		</div>
+        </div>
+
 		<hr>
-    <!-- /container -->
+    </div><!-- /container -->
 </main>
 <?php
 include("include/footer.php");
