@@ -20,6 +20,8 @@
     <link href="css/equipe_estilo.css" rel="stylesheet" />
     <!-- edição da pagina de contato -->
     <link href="css/contato_estilo.css" rel="stylesheet" />
+    <!-- edição da pagina de artigo -->
+    <link href="css/artigo_estilo.css" rel="stylesheet" />
   </head>
 
   <body>
