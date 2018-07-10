@@ -22,87 +22,9 @@ p.telefone {
     font-size: 18px;
     font-style: italic;
 }
-/* edição parceiro Unifal-MG */
-figure.unifal_parceiro img{
-    width: 150px;
-    height: 150px;
-    border-radius: 50px;
-}
-/* edição parceiro FACEPE */
-figure.facepe_parceiro img{
-    width: 150px;
-    height: 150px;
-    border-radius: 60px;
-}
-
-/* edição parceiro CEMIG */
-figure.cemig_parceiro img{
-    width: 150px;
-    height: 150px;
-    border-radius: 60px;
-}
-
-/*edição parceiro ONS */
-figure.ons_parceiro img{
-    width: 150px;
-    height: 150px;
-    border-radius: 60px;
-}
-
-/* edição parceiro Unicamp */
-figure.unicamp_parceiro img{
-    width: 150px;
-    height: 150px;
-    border-radius: 60px;
-}
-
-/* edição parceiro cnpq */
-figure.cnpq_parceiro img{
-    width: 150px;
-    height: 150px;
-    border-radius: 60px;
-}
-
-/* edição parceiro capes */
-figure.capes_parceiro img{
-    width: 150px;
-    height: 150px;
-    border-radius: 60px;
-}
-
-/* edição parceiro DME */
-figure.dme_parceiro img{
-    width: 150px;
-    height: 150px;
-    border-radius: 60px;
-}
-
-/* edição parceiro feec */
-figure.feec_parceiro img{
-    width: 150px;
-    height: 150px;
-    border-radius: 60px;
-}
-
-/*edição parceiro fem */
-figure.fem_parceiro img{
-    width: 150px;
-    height: 150px;
-    border-radius: 60px;
-}
-
-/* edição parceiro petrobras */
-figure.petrobras_parceiro img{
-    width: 150px;
-    height: 150px;
-    border-radius: 60px;
-}
-
-/* edição duke university */
-figure.duke_parceiro img{
-    width: 150px;
-    height: 150px;
-    border-radius: 60px;
+/* edição parceiros */
+figure.parceiro img{
+    border-radius: 75px;
 }
 /* formatação pagina index para Mobile S */
 @media only screen and (max-width: 374px){
@@ -131,89 +53,10 @@ figure.duke_parceiro img{
         font-size: 14px;
         font-style: italic;
     }
-    /* edição parceiro Unifal-MG */
-    figure.unifal_parceiro img{
-        width: 200px;
-        height: 150px;
+    /* edição parceiros */
+    figure.parceiro img{
         border-radius: 35px;
     }
-    /* edição parceiro FACEPE */
-    figure.facepe_parceiro img{
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /* edição parceiro CEMIG */
-    figure.cemig_parceiro img{
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /*edição parceiro ONS */
-    figure.ons_parceiro img{
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /* edição parceiro Unicamp */
-    figure.unicamp_parceiro img{
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /* edição parceiro cnpq */
-    figure.cnpq_parceiro img{
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /* edição parceiro capes */
-    figure.capes_parceiro img{
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /* edição parceiro DME */
-    figure.dme_parceiro img{
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /* edição parceiro feec */
-    figure.feec_parceiro img{
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /*edição parceiro fem */
-    figure.fem_parceiro img{
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /* edição parceiro petrobras */
-    figure.petrobras_parceiro img{
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /* edição duke university */
-    figure.duke_parceiro img{
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
 }
 /* formatação da pagina para Mobile M */
 @media only screen and (min-width: 375px) and (max-width: 399px) {
@@ -247,87 +90,8 @@ figure.duke_parceiro img{
         font-style: italic;
     }
 
-    /* edição parceiro Unifal-MG */
-    figure.unifal_parceiro img {
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /* edição parceiro FACEPE */
-    figure.facepe_parceiro img {
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /* edição parceiro CEMIG */
-    figure.cemig_parceiro img {
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /*edição parceiro ONS */
-    figure.ons_parceiro img {
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /* edição parceiro Unicamp */
-    figure.unicamp_parceiro img {
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /* edição parceiro cnpq */
-    figure.cnpq_parceiro img {
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /* edição parceiro capes */
-    figure.capes_parceiro img {
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /* edição parceiro DME */
-    figure.dme_parceiro img {
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;;
-    }
-
-    /* edição parceiro feec */
-    figure.feec_parceiro img {
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /*edição parceiro fem */
-    figure.fem_parceiro img {
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /* edição parceiro petrobras */
-    figure.petrobras_parceiro img {
-        width: 200px;
-        height: 150px;
-        border-radius: 35px;
-    }
-
-    /* edição duke university */
-    figure.duke_parceiro img {
-        width: 200px;
-        height: 150px;
+    /* edição parceiros */
+    figure.parceiro img {
         border-radius: 35px;
     }
 }
