@@ -29,28 +29,28 @@ include("include/header.php");
                     <tr>
                         <td>
                             <a target="_blank" href="http://www.unifal-mg.edu.br/portal/">
-                                <figure class="unifal_parceiro">
+                                <figure class="parceiro">
                                     <img src="fotos/unifal_grande.jpg" class="img-thumbnail" align="center"/>
                                 </figure>
                             </a>
                         </td>
                         <td>
                             <a target="_blank" href="http://www.facepe.br/">
-                                <figure class="facepe_parceiro">
+                                <figure class="parceiro">
                                     <img src="fotos/facepe.jpg" class="img-thumbnail" />
                                 </figure>
                             </a>
                         </td>
                         <td>
                             <a target="_blank" href="http://www.cemig.com.br/pt-br/">
-                                <figure class="cemig_parceiro">
+                                <figure class="parceiro">
                                     <img src="fotos/cemig.png" class="img-thumbnail"/>
                                 </figure>
                             </a>
                         </td>
                         <td>
                             <a target="_blank" href="http://ons.org.br/">
-                                <figure class="ons_parceiro">
+                                <figure class="parceiro">
                                     <img src="fotos/ons.jpg" class="img-thumbnail"/>
                                 </figure>
                             </a>
@@ -59,28 +59,28 @@ include("include/header.php");
                     <tr>
                         <td>
                             <a target="_blank" href="http://www.unicamp.br/unicamp/">
-                                <figure class="unicamp_parceiro">
+                                <figure class="parceiro">
                                     <img src="fotos/unicamp.png" class="img-thumbnail"/>
                                 </figure>
                             </a>
                         </td>
                         <td>
                             <a target="_blank" href="http://cnpq.br/">
-                                <figure class="cnpq_parceiro">
+                                <figure class="parceiro">
                                     <img src="fotos/cnpq.png" class="img-thumbnail"/>
                                 </figure>
                             </a>
                         </td>
                         <td>
                             <a target="_blank" href="http://www.capes.gov.br/">
-                                <figure class="capes_parceiro">
+                                <figure class="parceiro">
                                     <img src="fotos/capes.jpg" class="img-thumbnail"/>
                                  </figure>
                             </a>
                         </td>
                         <td>
                             <a target="_blank" href="http://www.dme-pc.com.br/">
-                                <figure class="dme_parceiro">
+                                <figure class="parceiro">
                                     <img src="fotos/dme.jpg" class="img-thumbnail"/>
                                 </figure>
                             </a>
@@ -93,28 +93,28 @@ include("include/header.php");
                     <tr>
                         <td>
                             <a target="_blank" href="https://www.fee.unicamp.br/">
-                                <figure class="feec_parceiro">
+                                <figure class="parceiro">
                                     <img src="fotos/feec.jpg" class="img-thumbnail"/>
                                 </figure>
                             </a>
                         </td>
                         <td>
                             <a target="_blank" href="https://www.fem.unicamp.br/index.php/pt-br/">
-                                <figure class="fem_parceiro">
+                                <figure class="parceiro">
                                     <img src="fotos/fem.png" class="img-thumbnail"/>
                                 </figure>
                             </a>
                         </td>
                         <td>
                             <a target="_blank" href="http://www.petrobras.com.br/pt/">
-                                <figure class="petrobras_parceiro">
+                                <figure class="parceiro">
                                     <img src="fotos/petrobras.jpg" class="img-thumbnail"/>
                                 </figure>
                             </a>
                             </td>
                         <td>
                             <a target="_blank" href="https://www.duke.edu/">
-                                <figure class="duke_parceiro">
+                                <figure class="parceiro">
                                     <img src="fotos/duke.png" class="img-thumbnail"/>
                                 </figure>
                             </a>
@@ -123,7 +123,7 @@ include("include/header.php");
                     <tr>
                         <td>
                             <a target="_blank" href="https://energy.duke.edu/">
-                                <figure class="duke_parceiro">
+                                <figure class="parceiro">
                                     <img src="fotos/duke_energi.jpg" class="img-thumbnail"/>
                                 </figure>
                             </a>
